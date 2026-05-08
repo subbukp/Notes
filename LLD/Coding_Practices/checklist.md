@@ -1,8 +1,8 @@
 ## 1. Core Stability (what you already did)
-- [x] try/except for error handling  
-- [x] Proper logging (errors + flow tracking)  
-- [x] DB transactions for consistency  
-- [x] DB locks / concurrency control  
+- [X] try/except for error handling  
+- [X] Proper logging (errors + flow tracking)  
+- [X] DB transactions for consistency  
+- [X] DB locks / concurrency control  
 
 ---
 
