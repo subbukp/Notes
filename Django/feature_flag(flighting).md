@@ -14,7 +14,7 @@ flowchart TD
     D -->|All good| E[Bump to 50%]
     D -->|Bug found| F[Flip OFF instantly — no deploy]
     E --> G[Bump to 100%]
-    G --> H[Remove flag from code]
+    G --> H[Remove flag from the code]
 ```
 
 ---
